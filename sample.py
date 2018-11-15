@@ -1,4 +1,4 @@
-import settings.py
+import settings
 
 API_KEY = settings.AP
 
