@@ -57,4 +57,21 @@
 (48):[sound]-> That story sounds strange.
 
 (49):[population]-> What is the population of India.
-(50):[generation]->
+(50):[generation]-> Live most of my generation, I have never known war.
+(51):[hero]-> Superman is a popular hero in comic books.
+(52):[right]-> a; We have the right of vote. b; I left my  bags right here.
+(53):[village]-> Many apple farmers live in our village.
+(54):[common]-> We must write on a common topic.
+(55):[public]-> This museum is open to the public on weekdays.
+
+(56):[give]-> a; I gave Angie a ticket to Osaka. b; I gave a ticket to Osaka to Angie.
+(57):[lend]-> a; Can you lend me some money? b; Can you lend some money to me?
+(58):[show]-> a; I'll show you some pictures. b; I'll show some pictures to you.
+(59):[pass]-> a; Could you please pass me the salt? b; Could you please pass the salt to me?
+
+(60):[society]-> This man is a danger to society.
+(61):[culture]-> I love meeting people from different cultures.
+(62):[custom]-> It's our custom to use chopsticks in this country.
+(63):[tradition]-> The tea ceremony is an ancient Japanese tradition.
+(64):[rule]-> We must obey the traffic rules.
+(65):[role]-> 
