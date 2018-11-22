@@ -75,4 +75,6 @@
 (62):[custom]-> It's our custom to use chopsticks in this country.
 (63):[tradition]-> The tea ceremony is an ancient Japanese tradition.
 (64):[rule]-> We must obey the traffic rules.
-(65):[role]->
+(65):[role]-> She played an important role in the project.
+(66):[address]-> a; Mat I have your address? b; The President gave an address to the nation.
+(67):[ceremony]-> The couple had their wedding ceremony at a church in Hawaii.
