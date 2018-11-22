@@ -65,11 +65,7 @@
 (54):[common]-> We must write on a common topic.
 (55):[public]-> This museum is open to the public on weekdays.
 
-<<<<<<< HEAD
-(56):[give]-> a; I gave Angie a ticket to Osaka. b; I gave a ticket to Osaka to Angie
-=======
 (56):[give]-> a; I gave Angie a ticket to Osaka. b; I gave a ticket to Osaka to Angie.
->>>>>>> a0fee7ebba0d18b1aa61f2e7aabb89d42deb844f
 (57):[lend]-> a; Can you lend me some money? b; Can you lend some money to me?
 (58):[show]-> a; I'll show you some pictures. b; I'll show some pictures to you.
 (59):[pass]-> a; Could you please pass me the salt? b; Could you please pass the salt to me?
@@ -79,4 +75,4 @@
 (62):[custom]-> It's our custom to use chopsticks in this country.
 (63):[tradition]-> The tea ceremony is an ancient Japanese tradition.
 (64):[rule]-> We must obey the traffic rules.
-(65):[role]-> 
+(65):[role]->
