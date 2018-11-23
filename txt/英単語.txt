@@ -1,5 +1,6 @@
+2018/11/20 start
+{{It is the practice to typing.}}
 
-2018/11/20
 #天気に関する語
 (1):[weather]-> The weather in Tokyo has been very hot lately.
 (2):[temperature]-> The Temperature rose to 38 degrees Celsius today.
@@ -42,13 +43,13 @@
 (34):[complain]-> Our neighbors complained to the police about the barking dog.
 (35):[graduate]->  she graduated from Yale University in 1997.
 (36):[agree]-> a; I agreed with him on this point. b; I agrees to his plan.
-
+#動物に関する語
 (37):[creature]-> There are all kinds of small creatures living in the pond.
 (38):[tall]-> Our cat has a very short tail.
 (39):[alive]-> It was a bad accident____ they're lucky to be alive.
 (40):[bite]-> a; The bit him and made his hand bleed. b; Can I have a bite of your steak?
 (41):[dig]-> My dog always digs holes to hide bones.
-
+#SVCの文型で用いられる動詞
 (42):[feel]-> I feel sick whenever I'm on a boat.
 (43):[smell]-> That soup smells delicious.
 (44):[taste]-> The medicine tastes bitter.
@@ -56,7 +57,7 @@
 (46):[look]-> a; He looks tired after the long drive. b; Take a close look at the photograph.
 (47):[appear]-> He tried hard to appear calm.
 (48):[sound]-> That story sounds strange.
-
+#集団・社会に関する語
 (49):[population]-> What is the population of India.
 (50):[generation]-> Live most of my generation, I have never known war.
 (51):[hero]-> Superman is a popular hero in comic books.
@@ -64,12 +65,12 @@
 (53):[village]-> Many apple farmers live in our village.
 (54):[common]-> We must write on a common topic.
 (55):[public]-> This museum is open to the public on weekdays.
-
+#SVOOの文型で用いられる動詞【give型】
 (56):[give]-> a; I gave Angie a ticket to Osaka. b; I gave a ticket to Osaka to Angie.
 (57):[lend]-> a; Can you lend me some money? b; Can you lend some money to me?
 (58):[show]-> a; I'll show you some pictures. b; I'll show some pictures to you.
 (59):[pass]-> a; Could you please pass me the salt? b; Could you please pass the salt to me?
-
+#社会に関する語
 (60):[society]-> This man is a danger to society.
 (61):[culture]-> I love meeting people from different cultures.
 (62):[custom]-> It's our custom to use chopsticks in this country.
@@ -78,4 +79,90 @@
 (65):[role]-> She played an important role in the project.
 (66):[address]-> a; Mat I have your address? b; The President gave an address to the nation.
 (67):[ceremony]-> The couple had their wedding ceremony at a church in Hawaii.
-(68):[]
+(68):[cash]-> In many small shops in Japan they only accept cash.
+#SVOOの文型で用いられる語【buy型】
+(69):[buy]-> a; My mother bought me a new shirt. b; My mother bought a new shirt for me.
+(70):[cook]-> a; Will you cook me a meal? b; Will you cook a meal for me?
+(71):[choose]-> a; I'll choose him a new jacket. b; I'll choose a new jacket for him.
+(72):[get]-> a; My parents got me this T-shirt. b; My parents got this T-shirt for me.
+#気持ちや感情を表す形容詞
+(73):[proud]-> Lucy's family is so proud of her.
+(74):[grateful]-> I'm so grateful for all your help.
+(75):[afraid]-> a; I'm afraid of losing my jobs. b; I'm afraid that I can't help you.
+(76):[anxious]-> a; He was anxious about the safety of the machinery. b; We are anxious for a new copy machine.
+(77):[ashamed]-> I'm ashamed of the things I said to him.
+(78):[angry]-> "Please don't be angry with me," she said.
+(79):[miserable]-> Sally was feeling miserable because of her cold.
+#SVOOの文型で注意すべき動詞(1)
+(80):[ask]-> We'll have to ask someone the way to the station.
+(81):[cost]-> How much would it cost us to replace it?
+(82):[save]-> If you lent me ten dollars, it would save me a trip to the bank.
+(83):[envy]-> Johnny envies you your success.
+(84):[spare]-> Can you spare me a few minutes? I need your advice.
+#
+(85):[age]-> The class is open to people of all ages.
+(86):[kid]-> All the kids in my neighborhood gathered in the park.
+(87):[cousin]-> Alice is a cousin on my mother's side of the family.
+(88):[host]-> He was the host at the birthday party.
+(89):[female]-> There are more females the males in my company.
+(90):[male]-> Many of the males in this village are unmarried.
+(91):[human]-> Human beings first landed on the moon in 1969.
+#
+(92):[owe]-> a; I owe my friend 50 dollars. b; The island owes its prosperity to tourism.
+(93):[allow]-> Allow yourselves plenty of time to get to the airport.
+(94):[cause]-> His behavior caused me a lot of trouble.
+(95):[charge]-> The restaurant charged us 50 dollars for the wine.
+(96):[loan]-< Can you loan him ten dollars?
+#
+(97):[false]-> People often make false assumption.
+(98):[bitter]-> You can learn a lot of from a bitter experience.
+(99):[empty]-> The fuel tank is almost empty.
+(100):[short]-> Can you lend me a couple of dollars? I'm a little short of money today.
+(101):[absent]-> Why were you absent from school yesterday?
+(102):[waste]-> Don't leave the light on -- you're wasting electricity.
+(103):[trouble]-> There is one thing that's been troubling me.
+#
+(104):[leave]-> Don't leave the door open.
+(105):[find]-> She found the work very dull.
+(106):[elect]-> They elected her mayor.
+(107):[believe]-> Nobody believes him to be honest.
+#
+(108):[tourist]-> More than three million American tourists visit Britain every year.
+(109):[travel]-> He spoke about his travel through Europe.
+(110):[voyage]-> The voyage from England to India used to take six months.
+(111):[rest]-> Let's take a rest after this meeting.
+(112):[leisure]-> I have no leisure for reading these days.
+(113):[airport]-> Her family went to see her off at the airport.
+(114):[abroad]-> I have never been abroad.
+(115):[sightseeing]-> After an afternoon of sightseeing we were all exhausted
+#
+(116):[rise]-> The sun rises in the east and sets in the west.
+(117):[raise]-> Raise your hand if you know the answer.
+(118):[lie]-> a; You may lie on my bed if you are tired. b; I knew he was telling a lie.
+(119):[lay]-> She laid her gloves on the table.
+#
+(120):[conversation]-> I enjoyed an interesting conversation with Mike last night.
+(121):[speech]-> His speech was too difficult for me to understand.
+(122):[attention]-> They paid attention to the lecture.
+(123):[contact]-> I've kept in contact with a few old school friends.
+#
+(124):[remain]-> Please remain seated until all the lights are on.
+(125):[own]-> He doesn't own a car.
+(126):[belong]-> My brother belong to the baseball club.
+(127):[contain]-> This water contains many kinds of minerals.
+(128):[exist]-> Some people still believe creature exist on the moon.
+(129):[hate]-> He hates having his picture taken.
+(130):[understand]-> I couldn't understand the teacher's instructions.
+#
+(131):[subject]-> a; Now, let's switch he subject to Japanese literature. b; Our plan is subject to weather conditions.
+(132):[matter]-> He doesn't usually talk about personal matters.
+(133):[opinion]-> In my opinion, we should do away with school uniforms.
+(134):[fact]-> I can't say anything until I know all the facts.
+(135):[example]-> This church is a good example of Gothic architecture.
+(136):[reason]-> We'd like to know the reason why she didn't accept the job.
+(137):[knowledge]-> Most young people lack basic knowledge about politics.
+#
+(138):[make]-> a; His words made me change my mind. b; I was made to change my mind by his words.
+(139):[let]->Some people seem to let their kids do whatever they like.
+(140):[have]-> My brother had me fix his bike.
+#
