@@ -1,6 +1,7 @@
 import sys
 N = int(input())
 list = list(map(int,input().split()))
+
 num = 0
 while True:
     fnum = 0
