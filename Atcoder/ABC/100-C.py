@@ -1,4 +1,3 @@
-#yet
 N = int(input())
 A = [i for i in map(int,input().split())]
 count = 0
@@ -12,4 +11,4 @@ for a in A:
         else:
             break
 print(count)
-#go
+#ok
