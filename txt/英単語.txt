@@ -9,12 +9,14 @@
 (5):[view]-> The house has wonderful views of the mountains.
 (6):[fine]-> a; The weather was fine on Sundays, so we went to the beach. b; He got a 75 dollar fine for speeding.
 (7):[calm]-> It was calm, clear, beautiful day.
+
 #前置詞をつけてしまいたくなる他動詞(1)
 (8):[answer]-> He still hasn't answered my  question.
 (9):[approach]-> As I approached the house, I noticed a light was an upstairs.
 (10):[attend]-> All of the members attended the meeting.
 (11):[discuss]-> She refused to discuss the matter with them.
 (12):[enter]-> When I entered the room, everyday looked at me at the same time.
+
 #植物に関する語
 (13):[plant]-> Don't forget to water the plants every day while I'm away.
 (14):[blossom]-> The apple trees are covered in white blossoms.
@@ -23,6 +25,7 @@
 (17):[fruit]-> I think his research will surely bear fruit.
 (18):[pick]->  I want you to pick her up at the airport.
 (19):[grow]-> You've really grown since I saw you last.
+
 #前置詞をつけてしまいたくなる他動詞(2)
 (20):[marry]-> a; Lisa married a man from Japan. b; Lisa is married to a Japanese man.
 (21):[mention]-> Oh, I forget to mention that the deadline is this Friday.
@@ -30,6 +33,7 @@
 (23):[reach]-> a; The temperature may reach 40 degrees Celsius today.
 (24):[resemble]-> Kate closely resembles her father.
 (25):[survive]-> Three of the passengers survived the airplane crash.
+
 #地理に関する語
 (26):[continent]-> Australia is both s country and a continent.
 (27):[area]-> Many area of Africa have been suffering from severe drought lately.
@@ -37,18 +41,21 @@
 (29):[horizon]-> The moon rose above  the horizon.
 (30):[border]-> The river lies on the border between the U.S. and Mexico.
 (31):[foreign]-> Today we hear many kinds of English with foreign accents.
+
 #他動詞と被りやすい自動詞
 (32):[apologize]-> We would like to apologize for the delay.
 (33):[argue]-> Those two are always with each other.
 (34):[complain]-> Our neighbors complained to the police about the barking dog.
 (35):[graduate]->  she graduated from Yale University in 1997.
 (36):[agree]-> a; I agreed with him on this point. b; I agrees to his plan.
+
 #動物に関する語
 (37):[creature]-> There are all kinds of small creatures living in the pond.
 (38):[tall]-> Our cat has a very short tail.
 (39):[alive]-> It was a bad accident____ they're lucky to be alive.
 (40):[bite]-> a; The bit him and made his hand bleed. b; Can I have a bite of your steak?
 (41):[dig]-> My dog always digs holes to hide bones.
+
 #SVCの文型で用いられる動詞
 (42):[feel]-> I feel sick whenever I'm on a boat.
 (43):[smell]-> That soup smells delicious.
@@ -57,6 +64,7 @@
 (46):[look]-> a; He looks tired after the long drive. b; Take a close look at the photograph.
 (47):[appear]-> He tried hard to appear calm.
 (48):[sound]-> That story sounds strange.
+
 #集団・社会に関する語
 (49):[population]-> What is the population of India.
 (50):[generation]-> Live most of my generation, I have never known war.
@@ -65,11 +73,13 @@
 (53):[village]-> Many apple farmers live in our village.
 (54):[common]-> We must write on a common topic.
 (55):[public]-> This museum is open to the public on weekdays.
+
 #SVOOの文型で用いられる動詞【give型】
 (56):[give]-> a; I gave Angie a ticket to Osaka. b; I gave a ticket to Osaka to Angie.
 (57):[lend]-> a; Can you lend me some money? b; Can you lend some money to me?
 (58):[show]-> a; I'll show you some pictures. b; I'll show some pictures to you.
 (59):[pass]-> a; Could you please pass me the salt? b; Could you please pass the salt to me?
+
 #社会に関する語
 (60):[society]-> This man is a danger to society.
 (61):[culture]-> I love meeting people from different cultures.
@@ -80,11 +90,13 @@
 (66):[address]-> a; Mat I have your address? b; The President gave an address to the nation.
 (67):[ceremony]-> The couple had their wedding ceremony at a church in Hawaii.
 (68):[cash]-> In many small shops in Japan they only accept cash.
+
 #SVOOの文型で用いられる語【buy型】
 (69):[buy]-> a; My mother bought me a new shirt. b; My mother bought a new shirt for me.
 (70):[cook]-> a; Will you cook me a meal? b; Will you cook a meal for me?
 (71):[choose]-> a; I'll choose him a new jacket. b; I'll choose a new jacket for him.
 (72):[get]-> a; My parents got me this T-shirt. b; My parents got this T-shirt for me.
+
 #気持ちや感情を表す形容詞
 (73):[proud]-> Lucy's family is so proud of her.
 (74):[grateful]-> I'm so grateful for all your help.
@@ -93,12 +105,14 @@
 (77):[ashamed]-> I'm ashamed of the things I said to him.
 (78):[angry]-> "Please don't be angry with me," she said.
 (79):[miserable]-> Sally was feeling miserable because of her cold.
+
 #SVOOの文型で注意すべき動詞(1)
 (80):[ask]-> We'll have to ask someone the way to the station.
 (81):[cost]-> How much would it cost us to replace it?
 (82):[save]-> If you lent me ten dollars, it would save me a trip to the bank.
 (83):[envy]-> Johnny envies you your success.
 (84):[spare]-> Can you spare me a few minutes? I need your advice.
+
 #
 (85):[age]-> The class is open to people of all ages.
 (86):[kid]-> All the kids in my neighborhood gathered in the park.
@@ -107,12 +121,14 @@
 (89):[female]-> There are more females the males in my company.
 (90):[male]-> Many of the males in this village are unmarried.
 (91):[human]-> Human beings first landed on the moon in 1969.
+
 #
 (92):[owe]-> a; I owe my friend 50 dollars. b; The island owes its prosperity to tourism.
 (93):[allow]-> Allow yourselves plenty of time to get to the airport.
 (94):[cause]-> His behavior caused me a lot of trouble.
 (95):[charge]-> The restaurant charged us 50 dollars for the wine.
 (96):[loan]-< Can you loan him ten dollars?
+
 #
 (97):[false]-> People often make false assumption.
 (98):[bitter]-> You can learn a lot of from a bitter experience.
@@ -121,11 +137,13 @@
 (101):[absent]-> Why were you absent from school yesterday?
 (102):[waste]-> Don't leave the light on -- you're wasting electricity.
 (103):[trouble]-> There is one thing that's been troubling me.
+
 #
 (104):[leave]-> Don't leave the door open.
 (105):[find]-> She found the work very dull.
 (106):[elect]-> They elected her mayor.
 (107):[believe]-> Nobody believes him to be honest.
+
 #
 (108):[tourist]-> More than three million American tourists visit Britain every year.
 (109):[travel]-> He spoke about his travel through Europe.
@@ -135,16 +153,19 @@
 (113):[airport]-> Her family went to see her off at the airport.
 (114):[abroad]-> I have never been abroad.
 (115):[sightseeing]-> After an afternoon of sightseeing we were all exhausted
+
 #
 (116):[rise]-> The sun rises in the east and sets in the west.
 (117):[raise]-> Raise your hand if you know the answer.
 (118):[lie]-> a; You may lie on my bed if you are tired. b; I knew he was telling a lie.
 (119):[lay]-> She laid her gloves on the table.
+
 #
 (120):[conversation]-> I enjoyed an interesting conversation with Mike last night.
 (121):[speech]-> His speech was too difficult for me to understand.
 (122):[attention]-> They paid attention to the lecture.
 (123):[contact]-> I've kept in contact with a few old school friends.
+
 #
 (124):[remain]-> Please remain seated until all the lights are on.
 (125):[own]-> He doesn't own a car.
@@ -153,6 +174,7 @@
 (128):[exist]-> Some people still believe creature exist on the moon.
 (129):[hate]-> He hates having his picture taken.
 (130):[understand]-> I couldn't understand the teacher's instructions.
+
 #
 (131):[subject]-> a; Now, let's switch he subject to Japanese literature. b; Our plan is subject to weather conditions.
 (132):[matter]-> He doesn't usually talk about personal matters.
@@ -161,8 +183,33 @@
 (135):[example]-> This church is a good example of Gothic architecture.
 (136):[reason]-> We'd like to know the reason why she didn't accept the job.
 (137):[knowledge]-> Most young people lack basic knowledge about politics.
+
 #
 (138):[make]-> a; His words made me change my mind. b; I was made to change my mind by his words.
 (139):[let]->Some people seem to let their kids do whatever they like.
 (140):[have]-> My brother had me fix his bike.
+
 #
+(141):[stranger]-> In this small town you can easily spot a stranger.
+(142):[safe]-> My boss keeps a safe in his office but I don't know what's in it.
+(143):[copy]-> We need to make 30 copies of the report for the meeting tomorrow.
+(144):[line]-> At the party I asked her what line of work she was in.
+(145):[word]-> No mater what you may think about him, he is a ma of his word.
+(146):[ring]-> Give me a ring tomorrow.
+
+#
+(147):[hear]-> Did you hear someone knock at the door.
+(148):[listen]-> I'm afraid that he never listens t anything I say.
+(149):[see]-> I saw him take a chocolate bar from the store without paying for it.
+(150):[watch]-> The grandmother watched her grandchild grow into a successful woman.
+
+#
+(151):[situation]-> Peter was put into a difficult situation.
+(152):[position]-> I couldn't see the accident from my position.
+(153):[front]-> Don't stand in front of the TV.
+(154):[bottom]-> Can you hold the bottom of the ladder for me?
+(155):[neighborhood]-> He live in my neighborhood.
+(156):[point]-> a; This lake is deepest at this point. b; I was at the point of quitting my job.
+
+#
+(157)
