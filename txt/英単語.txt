@@ -113,7 +113,7 @@
 (83):[envy]-> Johnny envies you your success.
 (84):[spare]-> Can you spare me a few minutes? I need your advice.
 
-#
+#人に関する語
 (85):[age]-> The class is open to people of all ages.
 (86):[kid]-> All the kids in my neighborhood gathered in the park.
 (87):[cousin]-> Alice is a cousin on my mother's side of the family.
@@ -122,14 +122,14 @@
 (90):[male]-> Many of the males in this village are unmarried.
 (91):[human]-> Human beings first landed on the moon in 1969.
 
-#
+#SVOOの文型で注意すべき動詞(2)
 (92):[owe]-> a; I owe my friend 50 dollars. b; The island owes its prosperity to tourism.
 (93):[allow]-> Allow yourselves plenty of time to get to the airport.
 (94):[cause]-> His behavior caused me a lot of trouble.
 (95):[charge]-> The restaurant charged us 50 dollars for the wine.
 (96):[loan]-< Can you loan him ten dollars?
 
-#
+#よくないイメージを持つ語
 (97):[false]-> People often make false assumption.
 (98):[bitter]-> You can learn a lot of from a bitter experience.
 (99):[empty]-> The fuel tank is almost empty.
@@ -138,13 +138,13 @@
 (102):[waste]-> Don't leave the light on -- you're wasting electricity.
 (103):[trouble]-> There is one thing that's been troubling me.
 
-#
+#SVOCの文型で用いられる動詞
 (104):[leave]-> Don't leave the door open.
 (105):[find]-> She found the work very dull.
 (106):[elect]-> They elected her mayor.
 (107):[believe]-> Nobody believes him to be honest.
 
-#
+#旅行に関する語
 (108):[tourist]-> More than three million American tourists visit Britain every year.
 (109):[travel]-> He spoke about his travel through Europe.
 (110):[voyage]-> The voyage from England to India used to take six months.
@@ -154,19 +154,19 @@
 (114):[abroad]-> I have never been abroad.
 (115):[sightseeing]-> After an afternoon of sightseeing we were all exhausted
 
-#
+#用法や活用が紛らわしい動詞
 (116):[rise]-> The sun rises in the east and sets in the west.
 (117):[raise]-> Raise your hand if you know the answer.
 (118):[lie]-> a; You may lie on my bed if you are tired. b; I knew he was telling a lie.
 (119):[lay]-> She laid her gloves on the table.
 
-#
+#コミュニケーションに関する語
 (120):[conversation]-> I enjoyed an interesting conversation with Mike last night.
 (121):[speech]-> His speech was too difficult for me to understand.
 (122):[attention]-> They paid attention to the lecture.
 (123):[contact]-> I've kept in contact with a few old school friends.
 
-#
+#原則的に進行形にしない動詞
 (124):[remain]-> Please remain seated until all the lights are on.
 (125):[own]-> He doesn't own a car.
 (126):[belong]-> My brother belong to the baseball club.
@@ -175,7 +175,7 @@
 (129):[hate]-> He hates having his picture taken.
 (130):[understand]-> I couldn't understand the teacher's instructions.
 
-#
+#討論・議論に関する語
 (131):[subject]-> a; Now, let's switch he subject to Japanese literature. b; Our plan is subject to weather conditions.
 (132):[matter]-> He doesn't usually talk about personal matters.
 (133):[opinion]-> In my opinion, we should do away with school uniforms.
@@ -184,12 +184,12 @@
 (136):[reason]-> We'd like to know the reason why she didn't accept the job.
 (137):[knowledge]-> Most young people lack basic knowledge about politics.
 
-#
+#使役動詞
 (138):[make]-> a; His words made me change my mind. b; I was made to change my mind by his words.
 (139):[let]->Some people seem to let their kids do whatever they like.
 (140):[have]-> My brother had me fix his bike.
 
-#
+#思いがけない意味を持つ名詞
 (141):[stranger]-> In this small town you can easily spot a stranger.
 (142):[safe]-> My boss keeps a safe in his office but I don't know what's in it.
 (143):[copy]-> We need to make 30 copies of the report for the meeting tomorrow.
@@ -197,13 +197,13 @@
 (145):[word]-> No mater what you may think about him, he is a ma of his word.
 (146):[ring]-> Give me a ring tomorrow.
 
-#
+#<他動詞+目的語+原型不定詞> の形をとる動詞
 (147):[hear]-> Did you hear someone knock at the door.
 (148):[listen]-> I'm afraid that he never listens t anything I say.
 (149):[see]-> I saw him take a chocolate bar from the store without paying for it.
 (150):[watch]-> The grandmother watched her grandchild grow into a successful woman.
 
-#
+#状況・位置を表す語
 (151):[situation]-> Peter was put into a difficult situation.
 (152):[position]-> I couldn't see the accident from my position.
 (153):[front]-> Don't stand in front of the TV.
@@ -212,4 +212,3 @@
 (156):[point]-> a; This lake is deepest at this point. b; I was at the point of quitting my job.
 
 #
-(157)
