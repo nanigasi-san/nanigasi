@@ -4,3 +4,4 @@ if A == B:
 else:
     if A == C:
         print(B)
+        
