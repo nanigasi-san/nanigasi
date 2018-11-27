@@ -4,3 +4,4 @@ if mon >= B:
     print(B)
 else:
     print(mon)
+#ok

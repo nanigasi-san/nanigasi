@@ -6,3 +6,4 @@ else:
         print(B)
     else:
         print(A)
+#ok
