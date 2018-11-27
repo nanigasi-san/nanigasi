@@ -1,3 +1,4 @@
+#yet
 D,N = map(int,input().split())
 list =[]
 num = 0
