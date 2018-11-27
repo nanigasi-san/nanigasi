@@ -12,3 +12,4 @@ for a in A:
         else:
             break
 print(count)
+#go
