@@ -1,1 +1,1 @@
-print(len(set([int(input()) for s in range(int(input()))])))
+print(len(set([int(input()) for _ in range(int(input()))])))
