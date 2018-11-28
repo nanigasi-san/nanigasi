@@ -14,3 +14,4 @@ for _ in list:
         num = 0
         continue
 print(alice-bob)
+#ok
