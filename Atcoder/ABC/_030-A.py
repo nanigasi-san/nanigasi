@@ -7,3 +7,4 @@ elif x < y:
     print("AOKI")
 else:
     print("DRAW")
+#go
