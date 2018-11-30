@@ -6,4 +6,4 @@ if a > b:
     print(A+"\n")
 else:
     print(B+"\n")
-#go
+#ok

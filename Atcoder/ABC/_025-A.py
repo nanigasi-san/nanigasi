@@ -6,4 +6,4 @@ for x in S:
         num += 1
         if num == N:
             print(x+y)
-#go
+#ok

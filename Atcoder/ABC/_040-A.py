@@ -4,4 +4,4 @@ if x <= num:
     print(x-1)
 else:
     print(n-x)
-#go
+#ok

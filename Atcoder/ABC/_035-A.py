@@ -1,6 +1,6 @@
 W,H = map(int,input().split())
 if W/H == 4/3:
-    print("4:3\n")
+    print("4:3")
 else:
-    print("16:9\n")
-#go
+    print("16:9")
+#ok
