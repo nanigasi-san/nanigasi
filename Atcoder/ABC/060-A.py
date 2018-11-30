@@ -11,4 +11,4 @@ if a[a_-1] == b[0]:
         print("NO")
 else:
     print("NO")
-#go
+#ok

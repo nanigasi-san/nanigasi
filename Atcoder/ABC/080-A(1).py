@@ -5,4 +5,4 @@ if num1 >= num2:
     print(num2)
 else:
     print(num1)
-#go
+#ok

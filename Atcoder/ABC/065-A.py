@@ -1,5 +1,4 @@
 X,A,B = map(int,input().split())
-
 if A >= B:#umai
     print("delicious")
 elif A < B:#mazui
@@ -8,4 +7,4 @@ elif A < B:#mazui
         print("safe")
     else:
         print("dangerous")
-#go
+#ok

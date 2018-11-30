@@ -6,4 +6,4 @@ else:
         print(A)
     else:
         print(B)
-#go
+#ok
