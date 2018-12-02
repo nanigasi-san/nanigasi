@@ -7,3 +7,4 @@ for _ in range(N):
         counter += 1
 
 print(counter)
+#改良して
