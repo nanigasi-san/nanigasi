@@ -21,14 +21,14 @@ for a in list:
                                     for j in list:
                                         ok.append(a+b+c+d+e+f+g+h+i+j)
 
-okk = []
+sub = []
 for _ in ok:
     x3 = _.count('3')
     x5 = _.count('5')
     x7 = _.count('7')
     if x3>0 and x5>0 and x7>0:
-        okk.append(_)
-fin = [int(_) for _ in okk]
+        sub.append(_)
+fin = [int(_) for _ in sub]
 fin.sort()
 for _ in fin:
     if _ > N:
