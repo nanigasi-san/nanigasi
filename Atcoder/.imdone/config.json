@@ -20,7 +20,12 @@
       "REVIEW"
     ]
   },
-  "lists": [],
+  "lists": [
+    {
+      "name": "All_ABC_AC",
+      "hidden": false
+    }
+  ],
   "marked": {
     "gfm": true,
     "tables": true,
