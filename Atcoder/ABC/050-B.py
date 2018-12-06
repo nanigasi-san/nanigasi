@@ -9,4 +9,4 @@ for _ in range(M):
     for t in T_:
         num += t
     print(num)
-#go
+#ok

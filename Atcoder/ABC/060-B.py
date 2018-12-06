@@ -3,12 +3,12 @@ A_ = A
 counter = 0
 while True:
     if A_%B == C:
-        print("Yes")
+        print("YES")
         break
     A_ += A
     counter += 1
     if counter > B:
-        print("No")
+        print("NO")
         break
 #なんか知らんが動いた！
-#go
+#ok

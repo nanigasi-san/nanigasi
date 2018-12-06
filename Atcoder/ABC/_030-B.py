@@ -7,4 +7,3 @@ if kaku1 >= kaku2:
     print(abs(kaku2))
 else:
     print(abs(kaku1))
-#go
