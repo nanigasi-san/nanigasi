@@ -7,4 +7,4 @@ if int(N)%sum == 0:
     print("Yes")
 else:
     print("No")
-#go
+#ok
