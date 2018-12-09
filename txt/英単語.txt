@@ -211,4 +211,27 @@
 (155):[neighborhood]-> He live in my neighborhood.
 (156):[point]-> a; This lake is deepest at this point. b; I was at the point of quitting my job.
 
+#<他動詞+目的語+to不定詞>の形をとる動詞(1)
+(157):[want]-> Our teacher wants all the students to write a short essay in English.
+(158):[enable]->The loan enabled him to buy the house.
+(159):[persuade]-> We persuaded him to attend the meeting.
+(160):[encourage]->They encouraged her to practice speaking English everyday.
+(161):[expect]-> He expected us to work on Sunday.
+(162):[invite]-> They invited her to join the party.
+
+#生活に関する語
+(163):[clothes]->She always wears such expensive clothes.
+(164):[comb]-> He sold his good watch to buy her the comb.
+(165):[case]-> He put his camera in a leather case.
+(166):[gift]-> I bought this CD as a gift for Jane, but she already had it.
+(167):[seat]-> Excuse me. Is this seat reserved?
+(168):[cover]-> I'm looking for a nice cover for my bed.
+
+#<他動詞+目的語+to不定詞>の形をとる動詞(2)
+(169):[force]-> Government troops have forced the rebels to surrender.
+(170):[compel]-> The new law will compel employers to provide health insurance.
+(171):[oblige]->The minister was obliged to send in a report once every six months.
+(172):[require]-> The teacher required his students to study hard every day.
+(173):[permit]-> His father permitted him to study abroad.
+
 #
