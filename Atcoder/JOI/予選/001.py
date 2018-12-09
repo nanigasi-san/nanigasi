@@ -7,3 +7,4 @@ while sum < C:
     if day%7 == 0:
         sum += B
 print(day)
+#ok
