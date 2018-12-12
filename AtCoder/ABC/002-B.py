@@ -10,4 +10,4 @@ for w in W:
         if counter == 5:
             list.append(w)
 print("".join(list))
-#go
+#ac

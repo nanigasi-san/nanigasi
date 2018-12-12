@@ -1,0 +1,4 @@
+[GitHub\nanigasi\library\Cython-numba\numba_2.py]
+loop= 100
+time = 21.82767677307129
+[Finished in 22.57s]
