@@ -1,0 +1,4 @@
+[GitHub\nanigasi\library\Cython-numba\numba_1.py]
+4999999950000000.0
+elapsed_time:38.854984760284424[sec]
+[Finished in 40.274s]
