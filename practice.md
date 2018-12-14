@@ -47,4 +47,8 @@ _Hello World!_
 `C:\ProgramFiles\settings.config`
 
 <!-- 取り消し -->
-私は~~神です。~~クズの誤字です。
+私は~~神です。~~  
+クズの誤字です。
+
+<!-- 埋め込みリンク -->
+nanigasi-sanのGitHubページは[ここ](https://github.com/nanigasi-san)です。
