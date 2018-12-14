@@ -4,7 +4,7 @@ import tkinter
 import codecs
 
 root = Tk()
-root.geometry("500x400")
+root.geometry("500x400+400+200")
 root.title("editer")
 
 scrolledtext = ScrolledText(root,state='normal',font=("",12))
