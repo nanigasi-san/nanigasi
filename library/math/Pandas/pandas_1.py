@@ -22,8 +22,8 @@ fin()
 print(s.tail(3))
 fin()
 
-#fig = s.plot(kind='bar').get_figure()
-#fig.savefig("figurel.png")
+fig = s.plot(kind='bar').get_figure()
+fig.savefig("figurel.png")
 
 print(s.describe())
 #上から
