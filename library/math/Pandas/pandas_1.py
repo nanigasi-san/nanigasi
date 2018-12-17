@@ -1,6 +1,6 @@
 #-----------
 def fin():
-    print("-"*10)
+    print("="*30)
 #-----------
 import pandas as pd
 import numpy as np
