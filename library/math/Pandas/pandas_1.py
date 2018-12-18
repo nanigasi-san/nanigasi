@@ -23,7 +23,7 @@ print(s.tail(3))
 fin()
 
 fig = s.plot(kind='bar').get_figure()
-fig.savefig("figurel.png")
+fig.savefig("C:/Users/Kaito Yamada/Documents/GitHub/nanigasi/library/math/Pandas/graph/figure1.png")
 
 print(s.describe())
 #上から
