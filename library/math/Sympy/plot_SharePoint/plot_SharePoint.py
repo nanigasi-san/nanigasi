@@ -7,7 +7,9 @@ x = sp.Symbol('x')
 y = sp.Symbol('y')
 #-----------------------------
 f = sp.sympify(input("f>>"))
+print(f)
 g = sp.sympify(input("g>>"))
+print(g)
 #----------------------------
 an = sp.solve([f-y,g-y],[x,y])
 an0=an[0]
