@@ -13,7 +13,7 @@ speed = 1000
 class Spclass(pygame.sprite.Sprite):
     def __init__(self):
         pygame.sprite.Sprite.__init__(self)
-        self.image = pygame.image.load("image/SAKANA_x.png").convert()
+        self.image = pygame.image.load("SAKANA_x.png").convert()
         colorkey = self.image.get_at((0,0))
         self.image.set_colorkey(colorkey)
         self.rect = self.image.get_rect()
