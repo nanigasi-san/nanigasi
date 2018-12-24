@@ -13,7 +13,7 @@ def InN(n):
 
     list = []
     for i in tqdm(range(n)):
-        list.append(CountLoopTime(10**9))
+        list.append(CountLoopTime(10**8))
 
     sum = 0
     for _ in list:
@@ -21,4 +21,4 @@ def InN(n):
     ave = sum/n
     print(round(ave,3),"[s]")
 
-InN(10)
+InN(100)
