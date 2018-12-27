@@ -35,4 +35,4 @@ fill_D4.patternType = FILL_PATTERN_GRAY125
 fill_D4.fgColor = GREEN
 active_sheet["D4"].fill = fill_D4
 
-book.save("library/use_file/openpyxl/sample6.xlsx")
+book.save("library/use_file/openpyxl/xlsx/sample6.xlsx")

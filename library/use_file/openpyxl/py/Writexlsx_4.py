@@ -16,4 +16,4 @@ font_A2.color = openpyxl.styles.colors.BLUE
 font_A2.name = "Arial"
 active_sheet["A2"].font= font_A2
 
-book.save("library/use_file/openpyxl/sample4.xlsx")
+book.save("library/use_file/openpyxl/xlsx/sample4.xlsx")

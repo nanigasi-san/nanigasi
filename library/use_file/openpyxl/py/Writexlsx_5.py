@@ -28,4 +28,4 @@ border_C3.right = Side(style=BORDER_DOUBLE)
 border_C3.top = Side(style=BORDER_MEDIUM)
 border_C3.bottom = Side(style=BORDER_THIN)
 active_sheet["C3"].border = border_C3
-book.save("library/use_file/openpyxl/sample5.xlsx")
+book.save("library/use_file/openpyxl/xlsx/sample5.xlsx")
