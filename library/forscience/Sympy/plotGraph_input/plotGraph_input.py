@@ -17,10 +17,9 @@ def usedefult(axis_data): #デフォルト値(-10~10)を使う
     axis_data[0:4] = -10,10,-10,10
 
 def setting(): #範囲指定をするかの選択
-    print("グラフの設定をしますか？")
     axis_ = ["xmin","xmax","ymin","ymax"]
 
-    if input("[yes/no]") == "yes":
+    if input("グラフの設定をしますか？ [yes/no]") == "yes":
         reset(axis_)
     else : #yes/noすら打てない人たまにいるので
         usedefult(axis_)
