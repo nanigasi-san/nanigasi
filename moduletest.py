@@ -1,10 +1,10 @@
-import Alice.Rythmisi as Alice
+import Alice.Rythmisi as al
+ry = al.Dimiourgia()
+x = al.x
+list=[23,52,672,23.0,235,23,"dsf"]
 
-x = Alice.x
-list=[23,52,672,235,23,"dsf"]
-
-test = Alice.dimiourgia(list)
+test = ry.olokliro(list)
 print(test)
 
-test2 = Alice.meros(test,x<100)
+test2 = ry.meros(test,x<100)
 print(test2)
