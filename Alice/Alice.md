@@ -25,7 +25,7 @@
 ---
 |引数|型|
 |:-:|:-:|
-|object|list/tuple|
+|object|list or tuple|
 |super|sympy.sets.sets.FiniteSet|
 |sub|sympy.sets.sets.FiniteSet|
 |set|sympy.sets.sets.FiniteSet|
