@@ -1,6 +1,6 @@
 from Alice import Rythmisi
+
 dm = Rythmisi.Dimiourgia()
-kr = Rythmisi.Krisi()
 
 x = dm.x
 list=[23,23.0,52,23,3.14,245/23,25,672,235,23]
@@ -25,7 +25,3 @@ print(test5)
 
 test6 = dm.ekthetiki(sub)
 print(test6)
-
-
-kr.Syschetisi(test1,test2)
-kr.Syschetisi(test1,sub)

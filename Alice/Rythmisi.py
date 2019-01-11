@@ -9,21 +9,21 @@ import sympy as sp
 class Dimiourgia():#生成
     x = sp.Symbol("x")
 
-    def olokliro(self,object=[]):#全体集合の生成
+    def olokliro(self,object=[]):#(全体)集合の生成
         return sp.FiniteSet(*object)
 
-    def meros(self,oya,joukenn):#部分集合の生成
+    def meros(self,super,constraint):#部分集合の生成
         emp1 = []
-        for i in oya:
-            ans = joukenn.subs(self.x,i)
+        for i in super:
+            ans = constraint.subs(self.x,i)
             if ans == True:
                 emp1.append(i)
         return sp.FiniteSet(*emp1)
 
-    def sympliroma(self,zentai,bubun):#補集合の生成
+    def sympliroma(self,super,sub):#補集合の生成
         emp2 = []
-        for element in zentai:
-            if (element in bubun) == False:
+        for element in super:
+            if (element in sub) == False:
                 emp2.append(element)
         return sp.FiniteSet(*emp2)
 
