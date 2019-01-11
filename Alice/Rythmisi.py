@@ -27,13 +27,20 @@ class Dimiourgia():#生成
                 emp2.append(element)
         return sp.FiniteSet(*emp2)
 
-    def kai(self,set1,set2):#和集合の生成
-        return set1.union(set2)
+    def kai(self,*args):#和集合の生成
+        kai = sp.FiniteSet()
+        for element in args:
+            kai = kai.union(element)
+        return kai
 
-    def proion(self,set1,set2):#積集合の生成
-        return set1.intersect(set2)
+    def proion(self,*args):#積集合の生成
+        proion = args[0]
+        for element in args:
+            proion = proion.intersect(element)
+        return proion
 
-
+    def ekthetiki(self,set):#冪集合の生成
+        return set.powerset()
 
 class Krisi():#判別
     def Syschetisi(self,A,B):#相関の判別
@@ -70,9 +77,3 @@ class Krisi():#判別
 
 class Axia():#値
     pass
-
-from inspect import currentframe
-
-def name(*args):
-    names = {id(v):k for k,v in currentframe().f_back.f_locals.items()}
-    return (', '.join(names.get(id(arg),'???') for arg in args))
