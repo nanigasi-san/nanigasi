@@ -43,37 +43,8 @@ class Dimiourgia():#生成
         return set.powerset()
 
 class Krisi():#判別
-    def Syschetisi(self,A,B):#相関の判別
-        A_name,B_name = "Right","Left"
-        if A == B:#同一
-            print("{0}=={1}.".format(A_name,B_name))
-
-        elif A != B:
-            if len(A) != len(B):#濃度が違う
-                if len(A) > len(B):
-                    large = A
-                    small = B
-                    flg = "a"
-                elif len(B) > len(A):
-                    large = B
-                    small = A
-                    flg = "b"
-                for element in small:
-                    if (element in large) == True:
-                        pass
-                    else:
-                        print("There is no correlation between {0} and {1}.".format(A_name,B_name))
-                        break
-                else:
-                    if flg == "a":
-                        print("{0} is a subset of {1}.".format(A_name,B_name))
-                    else:
-                        print("{0} is a subset of {1}.".format(B_name,A_name))
-
-            else:
-                print("There is no correlation between {0} and {1}.".format(A_name,B_name))
-    def einai_(self):#「である」
-        pass
+    def einai_meros(self,ask_super,ask_sub):#「である」
+        return ask_super.is_superset(ask_sub)
 
 class Axia():#値
     pass

@@ -12,8 +12,7 @@
     + ### sympliroma(self,super,sub)
         引数の集合**super**,**sub**<!---->より、**super**<!---->を全体集合とした**sub**の補集合を返す。
         要素がすべて同じ場合(super==sub)、空集合を返す。
-
-    + ### kai(self,\*args)
+    + ### kai(self,*args)
         任意の数の引数の集合全ての和集合を返す。
 
     + ### proion(self,\*args)
