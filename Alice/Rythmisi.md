@@ -6,7 +6,7 @@
         引数がない場合は空集合を返す。  
 
     + ### meros(self,super,constraint)
-        引数の集合**super**の要素のうち、指定した制約条件**constraint**を満たす要素の部分集合を返す。
+        引数の集合**super**の要素のうち、指定した制約条件**constraint**<!---->***※1***<!---->を満たす要素の部分集合を返す。
         制約条件は要素を**x**として記述する。
 
     + ### sympliroma(self,super,sub)
@@ -24,7 +24,7 @@
 ---
 |引数（五十音順）|型|
 |:-:|:-:|
-|**constraint**[^1]|str|
+|**constraint**|str|
 |**object**|list or tuple|
 |**set**|sympy.sets.sets.FiniteSet|
 |**sub**|sympy.sets.sets.FiniteSet|
@@ -32,5 +32,5 @@
 |**\*args**|sympy.sets.sets.FiniteSet|
 ---
 
-
-<u>ダブルクォーテーションで囲うことが必要<u/>
+### Help
+***※1***...ダブルクォーテーションで囲うことが必要
