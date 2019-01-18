@@ -13,12 +13,14 @@ class Dimiourgia():#生成
         return sp.FiniteSet(*object)
 
     def meros(self,super,constraint):#部分集合の生成
-        emp1 = []
+        emp = []
+        x = self.x
         for i in super:
-            ans = constraint.subs(self.x,i)
-            if ans == True:
-                emp1.append(i)
-        return sp.FiniteSet(*emp1)
+            x = x.subs(x,i)
+            expr = eval(constraint)
+            if expr == True:
+                emp.append(i)
+        return sp.FiniteSet(*emp)
 
     def sympliroma(self,super,sub):#補集合の生成
         emp2 = []

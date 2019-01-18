@@ -11,7 +11,7 @@ sub = dm.olokliro(list2)
 test1 = dm.olokliro(list)
 print(test1)
 
-test2 = dm.meros(test1,x<100)
+test2 = dm.meros(test1,"x%2==0")
 print(test2)
 
 test3 = dm.sympliroma(test1,test2)
