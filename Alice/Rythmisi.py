@@ -42,9 +42,6 @@ class Dimiourgia():#生成
     def ekthetiki(self,set):#冪集合の生成
         return set.powerset()
 
-class Krisi():#判別
-    def einai_meros(self,ask_super,ask_sub):#「である」
-        return ask_super.is_superset(ask_sub)
 
 class Axia():#値
     pass
