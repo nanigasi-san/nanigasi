@@ -24,7 +24,7 @@
 ---
 |引数（五十音順）|型|
 |:-:|:-:|
-|**constraint**[※1]|str|
+|**constraint**[^1]|str|
 |**object**|list or tuple|
 |**set**|sympy.sets.sets.FiniteSet|
 |**sub**|sympy.sets.sets.FiniteSet|
@@ -32,5 +32,5 @@
 |**\*args**|sympy.sets.sets.FiniteSet|
 ---
 
-### Help
-[※1]:ダブルクォーテーションで囲うことが必要
+
+<font color=rgb(200,0,0)>ダブルクォーテーションで囲うことが必要</font>
