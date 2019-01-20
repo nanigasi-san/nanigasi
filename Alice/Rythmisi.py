@@ -43,7 +43,3 @@ class Dimiourgia():#生成
 
     def ekthetiki(self,set):#冪集合の生成
         return set.powerset()
-
-
-class Axia():#値
-    pass

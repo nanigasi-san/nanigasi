@@ -1,16 +1,8 @@
-def chk(obj):
-    print(obj,type(obj))
+import Alice.Rythmisi
+dm = Alice.Rythmisi.Dimiourgia()
 
-from Alice import Rythmisi
-import sympy as sp
-dm = Rythmisi.Dimiourgia()
-kr = Rythmisi.Krisi()
-test1 = [1,2,3,4,5]
-test2 = [1,2,3]
-
-set1 = dm.olokliro(test1)
-set2 = dm.olokliro(test2)
-chk(set1)
-chk(set2)
-a = kr.einai_meros(set1,set2)
-print(a)
+list = [1,2,3,4,5,6,7,8,9,10]
+test1 = dm.olokliro(list)
+print(test1)
+test2 = dm.meros(test1,"x%2==0")
+print(test2)
