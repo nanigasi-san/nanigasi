@@ -9,9 +9,9 @@ label.place(x=5,y=5,width=100,height=30)
 #==========================================================
 from PIL import Image,ImageTk
 
-#image = ImageTk.PhotoImage(Image.open("imagefile/image.png"))   \
-#glabel = Label(root,image=image                                 -> 動かない
-#glabel.place(x=5,y=50,width=100,height=100)                     /
+image = ImageTk.PhotoImage(Image.open("C:/Users/Kaito Yamada/Documents/GitHub/nanigasi/library/GUI/Tkinter/imagefile/image2.png"))
+glabel = Label(root,image=image)
+glabel.place(x=5,y=50,width=100,height=100)
 
 entry = Entry(root)
 entry.place(x=5,y=160,width=100,height=30)

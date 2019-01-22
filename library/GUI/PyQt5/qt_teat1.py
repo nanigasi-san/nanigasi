@@ -1,2 +1,8 @@
-Python3.7だと動かないっぽい？？
-クソ！！！
+import sys
+from PyQt5.QtWidgets import QApplication,QWidget
+
+app = QApplication(sys.argv)
+w = QWidget()
+
+w.show()
+app.exec()
