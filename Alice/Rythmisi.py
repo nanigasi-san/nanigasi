@@ -41,10 +41,10 @@ class Dimiourgia():#生成
             proion = proion.intersect(element)
         return proion
 
-    def diafora(self,moto,*args):#差集合の生成
-        for element in args:
-            moto -= element
-        return moto
+    def diafora(self,minuend,*args):#差集合の生成<minuend=被減数>
+        for subtrahend in args:#<subtrahend=減数>
+            minuend -= subtrahend
+        return minuend
 
     def ekthetiki(self,set):#冪集合の生成
         return set.powerset()
