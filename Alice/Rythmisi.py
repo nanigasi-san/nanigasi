@@ -29,7 +29,7 @@ class Dimiourgia():#生成
                 emp2.append(element)
         return sp.FiniteSet(*emp2)
 
-    def kai(self,*args):#和集合の生成
+    def athroisma(self,*args):#和集合の生成
         kai = sp.FiniteSet()
         for element in args:
             kai = kai.union(element)
@@ -40,6 +40,11 @@ class Dimiourgia():#生成
         for element in args:
             proion = proion.intersect(element)
         return proion
+
+    def diafora(self,moto,*args):#差集合の生成
+        for element in args:
+            moto -= element
+        return moto
 
     def ekthetiki(self,set):#冪集合の生成
         return set.powerset()
