@@ -23,28 +23,29 @@ class Dimiourgia():#生成
         return sp.FiniteSet(*emp)
 
     def sympliroma(self,super,sub):#補集合の生成
-        emp2 = []
-        for element in super:
-            if (element in sub) == False:
-                emp2.append(element)
-        return sp.FiniteSet(*emp2)
+        if super.is_proper_superset(sub) == True:
+            return super - sub
+        else:
+            return None
+
 
     def athroisma(self,*args):#和集合の生成
-        kai = sp.FiniteSet()
+        kai = args[0]
         for element in args:
-            kai = kai.union(element)
+            kai += element
         return kai
 
     def proion(self,*args):#積集合の生成
         proion = args[0]
         for element in args:
-            proion = proion.intersect(element)
+            proion = proion & element
         return proion
 
     def diafora(self,minuend,*args):#差集合の生成<minuend=被減数>
+        diafora = minuend
         for subtrahend in args:#<subtrahend=減数>
-            minuend -= subtrahend
-        return minuend
+            diafora -= subtrahend
+        return diafora
 
     def ekthetiki(self,set):#冪集合の生成
         return set.powerset()
