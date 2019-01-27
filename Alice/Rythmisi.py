@@ -44,7 +44,8 @@ class Dimiourgia():#生成
     def diafora(self,minuend,*args):#差集合の生成<minuend=被減数>
         diafora = minuend
         for subtrahend in args:#<subtrahend=減数>
-            diafora -= subtrahend
+            if subtrahend != None:
+                diafora -= subtrahend
         return diafora
 
     def ekthetiki(self,set):#冪集合の生成
