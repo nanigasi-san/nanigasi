@@ -1,3 +1,3 @@
 import requests
-r = requests.get("https://google.com/")
+r = requests.get("https://google.com")
 print(r.text)
