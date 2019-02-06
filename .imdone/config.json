@@ -30,6 +30,10 @@
     {
       "hidden": false,
       "name": "DONE"
+    },
+    {
+      "name": "XXX",
+      "hidden": false
     }
   ],
   "marked": {
