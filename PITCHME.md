@@ -17,7 +17,6 @@
 ---
 
 ```fortran
-
 implicit none
 INTEGER :: n,i,j,count,challenge_divide
 INTEGER,ALLOCATABLE,DIMENSION(:) :: a
@@ -50,10 +49,16 @@ enddo
 WRITE(6,*) count
 
 end
-
 ```
+@[17](endif)
+@[18](enddo)
+ループや条件分岐の終わりをしっかり書くので分かりやすい
 
 ---
 
-終わり💛
+**ぶっちゃけ全く書けません(FizzBuzzとかフィボナッチ数列くらいしかできない)**
+
+---
+古代言語を使ってイキりたい各位はやりましょう！！！  
+(あと研究系に行く人ですね)
 ---
