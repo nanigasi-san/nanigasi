@@ -8,7 +8,7 @@ pygame.init()
 screen = pygame.display.set_mode((WIDTH,HEIGHT))
 myfont = pygame.font.Font(None,32)
 myclock = pygame.time.Clock()
-image1 = pygame.image.load("sakana10.png").convert()
+image1 = pygame.image.load("library/Pygame_p/image/sakana10.png").convert()
 
 screen.fill(BLUE)
 screen.blit(image1,(0,0))
