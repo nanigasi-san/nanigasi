@@ -1,3 +1,4 @@
-N,A,B,C = map(int,input().split())
+import random
+print("random!")
 
-llist = [int(input()) for i in range(N)]
+print(random.randint(1,6))
