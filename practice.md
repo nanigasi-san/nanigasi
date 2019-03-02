@@ -52,3 +52,7 @@ _Hello World!_
 
 <!-- 埋め込みリンク -->
 nanigasi-sanのGitHubページは[ここ](https://github.com/nanigasi-san)です。
+
+$$
+R_{\mu \nu} - {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda = {8 \pi G \over c^4} T_{\mu \nu}
+$$
