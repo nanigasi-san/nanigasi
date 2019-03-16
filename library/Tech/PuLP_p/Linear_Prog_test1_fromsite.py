@@ -18,6 +18,6 @@ plt.xlim(0, 4.5)
 plt.legend(loc=0)
 
 #自分
-plt.savefig("F:/image/Linear_Prog_test1_fromsite.png")
+# plt.savefig("F:/image/Linear_Prog_test1_fromsite.png")
 
 plt.show()
