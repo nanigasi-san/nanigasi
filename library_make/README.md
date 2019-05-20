@@ -1,10 +1,12 @@
-# nanigasi_sequence 数列操作のためのライブラリ
+# nanigasi_sequence
+## Pythonによる数列操作のためのライブラリ
 ---
 ## クラス構成
 + Sequence
   + ArithmeticalProgression
   + GeometricProgression
   + Zennka1
+  + Zennka2
 ---
 ## クラスと引数の説明
 #### `Sequence(self,general_term)`
@@ -34,20 +36,26 @@
 |first_term(初項)|float||
 |recurrence_fomula(漸化式)|str||
 
+#### `Zennka2(Sequence,first_term,second_term,recurrence_fomula)`
+数列。初項と二変数の漸化式が判明しているときに数列を生成する。
+|引数|型|デフォルト値|
+|:-|:-|:-|
+|first_term(初項)|float||
+|second_term(第二項)|float||
+|recurrence_fomula(漸化式)|str||
+
 ---
 ## methods
 ### Sequenceクラス共通
 + `Sequence.get_term(self,num)`:数列のnum項目の値を返す(num>=1)
 + `Sequence.enumeration(self,start,end)`:数列のstart項目からend項目までの数列のジェネレーターを返す
 + `Sequence.sigma(self,start,end)`:数列のstart項目からend項目までの数列の和を返す
-### Zennka1クラス
-+ `Zennka1.zenka(self,end)`:漸化数列のend項目までのリストを返す
 
 ---
 ## examples
 #### インポート
 ```python
-from nanigasi_sequence import Sequence,ArithmeticalProgression,GeometricProgression,Zennka1
+from nanigasi_sequence import Sequence,ArithmeticalProgression,GeometricProgression,Zennka1,Zennka2
 ```
 #### 一般項が分かっている場合
 ```python
@@ -104,14 +112,26 @@ print(c.get_term(4))
 # 216
 ```
 ---
-#### 漸化数列
+#### 漸化数列(一変数)
 ```python
 d = Zennka1(-1,"2*a_n+n") #初項-1,漸化式a_n+1 = 2*a_n+nの数列
 
 print(d.recurrence_fomula)
 # 2*a_n + n
 
-print(d.zenka(10))
-# [-1,-1,0,3,10,25,56,119,246,501]
+print(d.sigma(3,10))
+# 1972
+```
+
+---
+#### 漸化数列(二変数)
+```python
+e = Zennka2(1,1,"a_n_plus1+a_n") #フィボナッチ数列
+
+print(e.recurrence_fomula)
+# a_n_plus1 + a_n
+
+print(list(e.enumeration(1,10)))
+# [1,1,2,3,5,8,13,21,34,55]
 ```
 ---
