@@ -1,28 +1,20 @@
 N,M = map(int,input().split())
-
-ABlist = [list(map(int,input().split())) for n in range(N)]
-Alist = [ab[0] for ab in ABlist]
-Blist = [ab[1] for ab in ABlist]
-
-sum = 0
-flg = False
-while True:
-    min_ = min(Alist)
-    min_index = Alist.index(min_)
-    b_num = Blist[min_index]
-    for i in range(b_num):
-        M -= 1
-        sum += min_
-        if M==0:
-            flg = True
-            break
-    Blist.remove(b_num)
-    Alist.remove(Alist[min_index])
-    if flg == True:
+ABlist = [tuple(map(int,input().split())) for _ in range(N)]
+ABlist.sort()
+money = 0
+for AB in ABlist:
+    maz_num = AB[1]
+    maz_pri = AB[0]
+    add_m = maz_pri*maz_num
+    if M > 0:
+        money += add_m
+        M -= maz_num
+    if M == 0:
         break
-print(sum)
+    if M < 0:
+        while M!=0:
+            money -= maz_pri
+            M += 1
+        break
 
-
-"""
-TLEwwwwwwwww
-"""
+print(money)
