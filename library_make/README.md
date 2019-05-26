@@ -15,14 +15,14 @@
 |:-|:-|:-|
 |general_term(一般項)|str|
 
-#### `ArithmeticalProgression(Sequence,first_term,ccommon_diff)`
+#### `ArithmeticalProgression(Sequence,first_term,common_diff)`
 等差数列。初項と公差が判明しているときにSequenceインスタンスを生成する。
 |引数|型|デフォルト値|
 |:-|:-|:-|
 |first_term(初項)|float||
 |common_diff(公差)|float||
 
-#### `GeometricProgression(Sequence,first_term,ccommon_ratio)`
+#### `GeometricProgression(Sequence,first_term,common_ratio)`
 等比数列。初項と公比が判明しているときにSequenceインスタンスを生成する
 |引数|型|デフォルト値|
 |:-|:-|:-|
